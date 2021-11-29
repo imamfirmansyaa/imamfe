@@ -1,0 +1,16 @@
+/* penentuan class untuk dipanggil dihtml */
+.head, .body, .foot{
+    background-color: darkblue;
+    color: whitesmoke;
+    /* text-align: center;
+    width: 100px;
+    margin-left: 700px; */ 
+    width: 100px;
+    height: 150px;
+    margin: 0 auto;
+}
+.face, .teech, .down {
+    text-align: center;
+    /* color: whitesmoke;
+    width: 100px; */
+}
